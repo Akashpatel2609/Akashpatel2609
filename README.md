@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 I’m currently working on Applied AI Postgraduate Certification
 - 🌱 I’m currently learning Gen AI and LLM;
-- 👯 I’m looking for contribution in Open Source Projects
+- 👯 I’m open for contribution in Open Source Projects
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Cricket 🏏, Anime , Movies 🎥, Games 🎮
 - ⚡️ Fun-Fact: I have a Masters degree in Electrical and Comuting Engineering
@@ -19,7 +19,12 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akp09/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26akashpatel99@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akp09/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26akashpatel99@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=framer&logoColor=white)](https://akashpatel.framer.website/) 
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-1A5276?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/akash.patel3574) 
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white)](https://app.powerbi.com/groups/me/list?experience=power-bi)
+
 
 # 💻 Tech Stack:
 <p align="center">
