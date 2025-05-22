@@ -49,14 +49,14 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashpatel2609&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Akashpatel2609&theme=tokyonight&hide_border=false" alt="Streak stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpatel2609&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact" alt="Top languages" width="45%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Akashpatel2609&theme=tokyonight&hide_border=false" alt="Streak stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashpatel2609&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" width="45%" />
 </p>
 
 
