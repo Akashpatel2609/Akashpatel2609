@@ -28,7 +28,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/hadoop.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
+  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/hadoop.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
   <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/azure.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/docker.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -44,7 +44,7 @@
   <img title="Power BI" alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/tableau.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/spark.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/kafka.svg" width="105" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/kafka.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 
