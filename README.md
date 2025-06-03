@@ -28,24 +28,25 @@
 
 # 💻 Tech Stack:
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Azure" alt="Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="Kubernetes" alt="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="PyTorch" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="TensorFlow" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-  <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
-	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>
-  <img title="Power BI" alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" style="vertical-align:down; margin:4px"/>
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/hadoop.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
+  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/azure.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/docker.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Kubernetes" alt="Kubernetes" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/kubernetes.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="PyTorch" alt="PyTorch" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/pytorch.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/tensorflow.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/postgresql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/jira.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/linux.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Power BI" alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/tableau.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/spark.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Akashpatel2609/Akashpatel2609/master/icons/kafka.svg" width="105" height="40" style="vertical-align:down; margin:4px"/>
 </p>
+
 
 # 📊 GitHub Stats:
 <p align="center">
