@@ -21,7 +21,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akp09/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:26akashpatel99@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=framer&logoColor=white)](https://akashpatel.tech/) 
+[![Portfolio](https://raw.githubusercontent.com/Akashpatel2609/akash-portfolio/blob/main/src/app/icon.svg)](https://akashpatel.tech/) 
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-1A5276?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/akash.patel3574) 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white)](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
