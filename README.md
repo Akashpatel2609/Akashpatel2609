@@ -8,12 +8,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on Applied AI Postgraduate Certification
-- 🌱 I’m currently learning Gen AI and LLM;
+- 🌱 I’m currently learning Gen AI, AI Agents and LLM;
 - 👯 I’m open for contribution in Open Source Projects
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- :bulb: I'm interested in all things data: **Big Data and Analytics, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Cricket 🏏, Anime , Movies 🎥, Games 🎮
-- ⚡️ Fun-Fact: I have a Masters degree in Electrical and Comuting Engineering
+- ⚡️ Fun-Fact: I have a Masters degree in Electrical and Comuting Engineering and a PG certification in Applied AI
 - 📫 How to reach me: 26akashpatel99@gmail.com
 
 
