@@ -50,10 +50,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashpatel2609&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" width="45%" />
-</p>
-
 
 
 ![snake gif](https://github.com/Akashpatel2609/Akashpatel2609/blob/output/github-snake-dark.svg)
